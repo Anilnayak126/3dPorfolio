@@ -79,7 +79,7 @@ import {
       name: "Skills",
       description:
         `Full-stack developer skilled in React, Tailwind CSS, and Redux for building responsive UIs, with strong backend expertise in Django, Python APIs, MySQL, MongoDB, and Node.js for creating robust, scalable applications ,
-        As part of my continuous journey in web development, my <a style="color: #FFCC00; text-decoration: none; font-weight: bolder; cursor: pointer;" href="https://github.com/Anilnayak126" target="_blank" rel="noopener noreferrer">previous Portfolio</a> showcases some of my earlier projects where I honed my skills in full-stack development .`,
+        As part of my continuous journey in web development, my <a style="color: #FFCC00; text-decoration: none; font-weight: bolder; cursor: pointer;" href="https://papaya-blancmange-5546ef.netlify.app/" target="_blank" rel="noopener noreferrer">previous Portfolio</a> showcases some of my earlier projects where I honed my skills in full-stack development .`,
       image: devnotes,
     },
     {
