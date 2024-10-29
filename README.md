@@ -1,8 +1,28 @@
-# React + Vite
+# Three.js Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+A visually immersive portfolio created using **Three.js**, **React**, and **Tailwind CSS**. This project showcases my work through interactive 3D graphics and animations, providing an engaging user experience. The portfolio highlights my skills, projects, and journey as a developer.
 
-Currently, two official plugins are available:
+## Project Overview
+This portfolio aims to demonstrate my capabilities as a developer by utilizing advanced web technologies to create an aesthetically pleasing and functional interface. Users can explore my projects, view detailed descriptions, and interact with 3D elements that enhance engagement and storytelling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- **Interactive 3D Graphics**: Powered by Three.js, enabling users to interact with 3D models and visualizations.
+- **Responsive Layout**: Built with Tailwind CSS to ensure a smooth experience on various devices, from desktops to mobile.
+- **Seamless Navigation**: Implemented using React Router, allowing users to easily switch between different sections of the portfolio.
+- **Smooth Animations**: Integrated with React Spring for transitions and animations, enhancing the visual experience.
+- **User-Friendly Forms**: Utilizes Formik for handling forms, making it easy for users to contact me or inquire about projects.
+
+## Technologies Used
+- **Three.js**: For creating and displaying 3D graphics and animations.
+- **React**: The core library for building the user interface.
+- **Tailwind CSS**: For utility-first styling and responsive design.
+- **React Router**: For routing and navigation between different views.
+- **React Spring**: For creating smooth animations and transitions.
+- **Formik**: For handling forms and user input (if applicable).
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/threejs-portfolio.git
+   cd threejs-portfolio
